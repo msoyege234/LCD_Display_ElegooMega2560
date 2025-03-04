@@ -1,0 +1,25 @@
+#include <LiquidCrystal.h> // Include the LiquidCrystal library
+
+// Define the LCD pin numbers
+const int rs = 12, en = 11, d4 = 5, d5 = 4, d6 = 3, d7 = 2;
+
+// Initialize the LCD
+LiquidCrystal lcd(rs, en, d4, d5, d6, d7);
+
+void setup() {
+  // Start the LCD with 16 columns and 2 rows
+  lcd.begin(16, 2); 
+
+  // Print "Hello, World!" to the first line
+  lcd.print("Hello, World!");
+  
+  // Move the cursor to the second line
+  lcd.setCursor(0, 1);
+  
+  // Print "Arduino" to the second line
+  lcd.print("Arduino");
+}
+
+void loop() {
+  // Nothing needs to be done in the loop for now
+}
