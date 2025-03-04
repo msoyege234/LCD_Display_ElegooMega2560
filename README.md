@@ -9,6 +9,8 @@ This project connects a 16x2 or 20x4 LCD Display to an Elegoo Mega 2560, allowin
 	•	Jumper wires
 	•	Breadboard (optional, for easier wiring)
 
+
+
  🔌 Circuit Wiring Guide
 	•	Power Connections:
 	•	Connect VSS to GND
@@ -29,6 +31,9 @@ This project connects a 16x2 or 20x4 LCD Display to an Elegoo Mega 2560, allowin
 	•	D6 → Pin 3
 	•	D7 → Pin 2
 
+
+
+
 🚀 How to Upload to Arduino
 	1.	Assemble the circuit following the wiring guide above.
 	2.	Open Arduino IDE and make sure the LiquidCrystal library is installed.
@@ -37,6 +42,9 @@ This project connects a 16x2 or 20x4 LCD Display to an Elegoo Mega 2560, allowin
 	5.	Go to Tools > Board > Arduino Mega 2560
 	6.	Select the correct COM Port under Tools > Port
 	7.	Click the Upload button.
+
+
+ 
  Issues & Fixes
 	•	Nothing is displayed on the LCD
 	•	Check all connections and ensure power is supplied.
