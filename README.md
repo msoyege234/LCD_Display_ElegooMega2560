@@ -54,7 +54,3 @@ Arduino project integrating a 16x2 or 20x4 LCD display with the Elegoo Mega 2560
 
  
 Happy Coding😊
-
-void loop() {
-  // Nothing needs to be done in the loop for now
-}
