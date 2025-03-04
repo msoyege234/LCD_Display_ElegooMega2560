@@ -2,7 +2,6 @@
 Arduino project integrating a 16x2 or 20x4 LCD display with the Elegoo Mega 2560. Supports both I2C and parallel wiring methods
 #include <LiquidCrystal.h> // Include the LiquidCrystal library
 
-Hardware Requirements
 
 🛠️ Required Components
 	•	Arduino Mega 2560 (or compatible board)
