@@ -2,7 +2,7 @@
 This project connects a 16x2 or 20x4 LCD Display to an Elegoo Mega 2560, allowing it to display messages or real-time data. The project supports both I2C communication (recommended for fewer wires) and parallel wiring.
 
 Youtube Video:
-https://youtu.be/tdjSLF2_YBI?si=7Evf06MDAVuAb3GV
+[https://youtu.be/tdjSLF2_YBI?si=7Evf06MDAVuAb3GV](https://youtu.be/SXc6YU2Y5_Y)
 
 
 🛠️ Required Components
